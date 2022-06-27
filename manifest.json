@@ -1,0 +1,32 @@
+{
+    "theme_color": "#857777",
+    "background_color": "#857777",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "https://bartoszl1803.github.io/PWA-Bartosz-Lissowski/",
+    "name": "Bartosz Lissowski movie blog",
+    "short_name": "movieAPP",
+    "description": "blog o kinie w ramach projektu Zaawansowane technologie sieciowe",
+    "icons": [
+        {
+            "src": "./manifest/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./manifest/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "./manifest/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "./manifest/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
